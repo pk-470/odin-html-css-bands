@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+
+.picture {
+  display: block;
+  text-align: center;
+}
+
+figcaption {
+  display: block;
+}
